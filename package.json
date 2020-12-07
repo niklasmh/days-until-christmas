@@ -1,6 +1,6 @@
 {
   "name": "days-until-christmas",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "I lost the count so I made this to keep myself up-to-date next time",
   "main": "index.js",
   "exports": {

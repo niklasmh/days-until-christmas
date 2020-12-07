@@ -2,6 +2,8 @@
 
 This package keeps track of days until the 24th of December.
 
+Try it out [here](https://codepen.io/niklasmh/pen/wvzWqgO)!
+
 ## Install
 
 ```bash
