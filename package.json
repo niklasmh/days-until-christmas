@@ -1,0 +1,29 @@
+{
+  "name": "days-until-christmas",
+  "version": "0.0.7",
+  "description": "I lost the count so I made this to keep myself up-to-date next time",
+  "main": "index.js",
+  "exports": {
+    ".": [
+        {
+            "import": "./index.mjs",
+            "require": "./index.js",
+            "default": "./index.js"
+        },
+        "./index.js"
+    ]
+  },
+  "scripts": {},
+  "dependencies": {},
+  "keywords": [],
+  "author": "🎅 <santa@javascript.christmas> (https://javascript.christmas)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niklasmh/days-until-christmas.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niklasmh/days-until-christmas/issues"
+  },
+  "homepage": "https://github.com/niklasmh/days-until-christmas#readme"
+}
