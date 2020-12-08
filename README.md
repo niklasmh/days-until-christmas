@@ -14,7 +14,16 @@ yarn add days-until-christmas
 
 ## Usage
 
-There are three ways to include this package:
+There are four ways to use this package:
+
+### Through the command-line
+
+```bash
+npx days-until-christmas # Can be used without installation
+# OR
+days-until-christmas # Requires a global installation of the package
+# E.g: `npm i -g days-until-christmas` OR `yarn add global days-until-christmas`
+```
 
 ### In Node.js
 
